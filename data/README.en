@@ -1,0 +1,9 @@
+Part of this data comes from a Data Carpentry workshop (some of which are old versions):
+
+portal_mammals.sqlite
+species.csv
+speciesSubset.csv
+surveys.csv
+
+Source:
+https://github.com/datacarpentry/python-ecology-lesson/tree/gh-pages/data
